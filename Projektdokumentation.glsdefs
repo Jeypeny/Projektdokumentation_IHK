@@ -1,0 +1,56 @@
+\glsdefs@newdocentry{Kontext}%
+{%
+name={Kontext},%
+sort={Kontext},%
+type={main},%
+first={Kontext},%
+firstplural={Kontexts},%
+text={Kontext},%
+plural={Kontexts},%
+description={Zusätzliche Informationen, die ein KI-System benötigt, um ein Situation oder Aufgabe korrekt zu verstehen und zu interpretieren.},%
+descriptionplural={Zusätzliche Informationen, die ein KI-System benötigt, um ein Situation oder Aufgabe korrekt zu verstehen und zu interpretieren.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Prompt}%
+{%
+name={prompt},%
+sort={prompt},%
+type={main},%
+first={prompt},%
+firstplural={prompts},%
+text={prompt},%
+plural={prompts},%
+description={Eine Anweisung an ein KI-System, die vorgibt, welche Aufgaben es zu erledigen hat und wie es diese lösen soll.},%
+descriptionplural={Eine Anweisung an ein KI-System, die vorgibt, welche Aufgaben es zu erledigen hat und wie es diese lösen soll.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+
